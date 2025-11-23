@@ -1,0 +1,17 @@
+name: flet_tray_extension
+version: 0.1.0
+publish_to: none
+description: Flet 1.0-alpha tray extension powered by system_tray.
+repository: https://example.com/flet-tray
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flet: ^1.0.0-alpha.0
+  system_tray: ^2.0.3
+
+flutter:
+  uses-material-design: true

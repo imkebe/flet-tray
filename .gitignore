@@ -1,0 +1,21 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+flutter_export_environment.sh
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
